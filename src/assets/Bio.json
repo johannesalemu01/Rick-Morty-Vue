@@ -1,0 +1,100 @@
+{
+  "actors": [
+    {
+      "name": "Chris Parnell",
+      "overview": {
+        "born": "February 5, 1967",
+        "birthplace": "Memphis, Tennessee, USA",
+        "birth_name": "Thomas Christopher Parnell",
+        "height": "5′ 8″ (1.73 m)"
+      },
+      "mini_bio": {
+        "early_life": "Born and raised in Memphis, Tennessee, Chris Parnell enrolled at Germantown High School where he took drama and auditioned for every play. In 1985, when he was a senior at Germantown, he was voted 'Most Talented' by his classmates.",
+        "education": "After graduating high school, Chris attended North Carolina School of Arts in Winston-Salem, where he received his BFA in Drama.",
+        "early_career": "He later performed with the Berkshire Theatre in Stockbridge, Massachusetts, and the Alley Theatre in Houston, Texas. Afterwards, Chris moved back to Tennessee and taught acting, film, and video at his own Germantown High School.",
+        "career_change": "Bored with teaching, he moved to Los Angeles and got a job at FAO Schwartz in Beverly Center, where he eventually became Operations Manager. During that time, Chris began taking classes at The Groundlings Main Company.",
+        "saturday_night_live": "Talent scouts from Saturday Night Live saw him and asked him to fly to New York for an audition. He joined Saturday Night Live and became a featured player in the 1998-99 season. Parnell performed many impressions including Tom Brokaw, Newt Gingrich, Tom Hanks, John McCain, and Eminem.",
+        "notable_work": "He appeared as a member of Saturday Night Live's resident boy band 'Seven Degrees Celsius,' and his most famous skit was a hardcore gangster rap fantasizing about a dream date with Britney Spears on Weekend Update.",
+        "current_life": "He spends most of his summers in L.A. where he owns his own car and apartment."
+      }
+    },
+    {
+      "name": "Sarah Chalke",
+      "overview": {
+        "born": "August 27, 1976",
+        "birthplace": "Ottawa, Ontario, Canada",
+        "birth_name": "Sarah Louise Christine Chalke",
+        "nickname": "Chalky",
+        "height": "5′ 8″ (1.73 m)"
+      },
+      "mini_bio": {
+        "early_life": "Sarah Chalke was born on 27 August 1976 in Ottawa, Ontario, Canada. Her parents are Angie Chalke and Doug Chalke. She is the middle child, having one older sister, Natasha Chalke, and one younger, Piper Chalke.",
+        "career_start": "Sarah made her acting debut in a made-for-TV movie, City Boy (1992). In 1993, she auditioned for the role of 'Becky' on the TV series Roseanne (1988).",
+        "education": "Sarah graduated from high school in 1995, while shooting the 1994-1995 season of Roseanne (1988).",
+        "film_work": "In 1994, Sarah co-starred in the film Ernest Goes to School (1994), along with Jim Varney. In 1996, she starred in two films, including Robin of Locksley (1996) and Stand Against Fear (1996), where she played a cheerleader, 'Krista Wilson'.",
+        "television_work": "In 1998, a year after Roseanne (1988) ended, Sarah was asked to act in a show called Nothing Too Good for a Cowboy (1998), based on the TV movie with the same name."
+      }
+    },
+    {
+      "name": "Spencer Grammer",
+      "overview": {
+        "born": "October 9",
+        "birthplace": "Los Angeles, California, USA",
+        "height": "5′ 4″ (1.63 m)"
+      },
+      "mini_bio": {
+        "role": "Spencer Karen Grammer (born October 9, 1983)[3] is an American actress best known for her roles as the voice of Summer Smith in the Adult Swim animated science-fiction series Rick and Morty and as Casey Cartwright in the ABC Family college comedy-drama series",
+        "life": "Spencer Grammer was born in Los Angeles, California. She is the daughter of actor Kelsey Grammer and Doreen Alderman, and was named after her paternal aunt, Karen, who was murdered in 1975. She has six paternal half-siblings: three half-sisters (the actress Greer Grammer, Mason, and Faith) and three half-brothers (Jude, Gabriel, and James). She also has a maternal half-sister named Madison.[5] She attended Marymount Manhattan College in New York City. Grammer graduated from Columbia University School of the Arts in 2023 with an MFA in Directing."
+      }
+    },
+    {
+      "name": "Justin Roiland",
+      "overview": {
+        "born": "February 21, 1980",
+        "birthplace": "Stockton, California, USA",
+        "birth_name": "Mark Justin Roiland",
+        "height": "5′ 10″ (1.78 m)"
+      },
+      "mini_bio": {
+        "career_highlights": "Mark Justin Roiland is an American voice actor, animator, writer, producer, and director. He is best known as the co-creator of Adult Swim's Rick and Morty and its subsequent franchise. He voices the show's title characters Rick Sanchez and Morty Smith. Roiland is also the co-creator of Hulu's Solar Opposites, where he voices the main character, Korvo. Additionally, he has voiced Earl of Lemongrab on Adventure Time, Blendin Blandin on Gravity Falls, and Oscar on Fish Hooks.",
+        "business_ventures": "He founded the animation studio Justin Roiland's Solo Vanity Card Productions! and the video game studio Squanch Games."
+      }
+    },
+    {
+      "name": "Kari Wahlgren",
+      "overview": {
+        "born": "July 13",
+        "birthplace": "Hoisington, Kansas, USA",
+        "birth_name": "Kari K. Wahlgren",
+        "height": "5′ 1″ (1.55 m)"
+      },
+      "mini_bio": {
+        "career_highlights": "Kari Wahlgren is an American actress from Kansas. She is most well-known for voicing Kitana and Mileena from Mortal Kombat, Starfire from Injustice 2, Velma Green the Spider Queen from The Grim Adventures of Billy & Mandy, Kagami Hiiragi from Lucky Star, Willow Rosenberg from Buffy the Vampire Slayer: Chaos Bleeds, Haruko Haruhara from FLCL, Razor from Aliens in the Attic, and Tigress from Kung Fu Panda: Legends of Awesomeness."
+      }
+    },
+    {
+      "name": "Dan Harmon",
+      "overview": {
+        "born": "January 3, 1973",
+        "birthplace": "Milwaukee, Wisconsin, USA",
+        "height": "6′ (1.83 m)"
+      },
+      "mini_bio": {
+        "career_highlights": "Dan Harmon was born on January 3, 1973 in Milwaukee, Wisconsin, USA. He is best known as the creator, writer, and producer for Community (2009) and Rick and Morty (2013). He also wrote and produced earlier works such as Computerman (2003) and Laser Fart (2004).",
+        "personal_life": "He was previously married to Erin McGathy."
+      }
+    },
+    {
+      "name": "Maurice LaMarche",
+      "overview": {
+        "born": "March 30, 1958",
+        "birthplace": "Toronto, Ontario, Canada",
+        "nickname": "Moe",
+        "height": "6′ (1.83 m)"
+      },
+      "mini_bio": {
+        "career_highlights": "Maurice LaMarche is a Canadian-American comedian and voice actor from Toronto. He is most well-known for voicing Brain from Pinky and the Brain, Lrrr, Morbo and Calculon from Futurama, Estroy from Evil Con Carne, Mr. Big from Zootopia, King Agnarr from Frozen, Mr. Freeze from Batman: Arkham City, Yosemite Sam from Looney Tunes, Jack O'Lantern from The Grim Adventures of Billy & Mandy, Toucan Sam from Froot Loops commercials, and Orson Welles from The Critic."
+      }
+    }
+  ]
+}
