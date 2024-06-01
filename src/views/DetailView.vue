@@ -54,24 +54,24 @@
             class="w-28 h-28 rounded-lg mb-3"
           />
           <p
-            class="bg-clip-text text-transparent bg-gradient-to-br from-white via-transparent via-purple-200 to-transparent"
+            class="bg-clip-text text-transparent bg-gradient-to-br from-white via-transparent via-indigo-300"
           >
             <strong class="">Name:</strong> {{ resident.name }}
           </p>
           <p
-            class="bg-clip-text text-transparent bg-gradient-to-br from-white via-transparent via-purple-200 to-transparent"
+            class="bg-clip-text text-transparent bg-gradient-to-br from-white via-transparent to-indigo-300"
           >
             <strong class="">Status:</strong>
             {{ resident.status }}
           </p>
           <p
-            class="bg-clip-text text-transparent bg-gradient-to-br from-white via-transparent via-purple-200 to-transparent"
+            class="bg-clip-text text-midblack bg-gradient-to-br from-white via-midblack to-indigo-300"
           >
             <strong class="">Species:</strong>
             {{ resident.species }}
           </p>
           <p
-            class="bg-clip-text text-transparent bg-gradient-to-br from-white via-transparent via-purple-200 to-transparent"
+            class="bg-clip-text text-transparent bg-gradient-to-br from-white via-transparent via-indigo-200 to-transparent"
           >
             <strong class="">Gender:</strong>
             {{ resident.gender }}
