@@ -51,20 +51,30 @@
           <img
             :src="resident.image"
             :alt="resident.name"
-            class="w-28 h-28 rounded-lg"
+            class="w-28 h-28 rounded-lg mb-3"
           />
-          <p>
-            <strong class="text-midblack">Name:</strong> {{ resident.name }}
+          <p
+            class="bg-clip-text text-transparent bg-gradient-to-br from-white via-transparent via-purple-200 to-transparent"
+          >
+            <strong class="">Name:</strong> {{ resident.name }}
           </p>
-          <p>
-            <strong class="text-midblack">Status:</strong> {{ resident.status }}
+          <p
+            class="bg-clip-text text-transparent bg-gradient-to-br from-white via-transparent via-purple-200 to-transparent"
+          >
+            <strong class="">Status:</strong>
+            {{ resident.status }}
           </p>
-          <p>
-            <strong class="text-midblack">Species:</strong>
+          <p
+            class="bg-clip-text text-transparent bg-gradient-to-br from-white via-transparent via-purple-200 to-transparent"
+          >
+            <strong class="">Species:</strong>
             {{ resident.species }}
           </p>
-          <p>
-            <strong class="mid-black">Gender:</strong> {{ resident.gender }}
+          <p
+            class="bg-clip-text text-transparent bg-gradient-to-br from-white via-transparent via-purple-200 to-transparent"
+          >
+            <strong class="">Gender:</strong>
+            {{ resident.gender }}
           </p>
         </li>
       </ul>
