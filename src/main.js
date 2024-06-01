@@ -5,13 +5,11 @@ import { ApolloClient, InMemoryCache } from "@apollo/client/core";
 import { DefaultApolloClient } from "@vue/apollo-composable";
 import router from "./router";
 
-// Create Apollo Client
 const apolloClient = new ApolloClient({
   uri: "https://rickandmortyapi.com/graphql",
   cache: new InMemoryCache(),
 });
 
-// Wrap app creation in try-catch block for error handling
 try {
   const app = createApp({
     setup() {

@@ -33,7 +33,7 @@
 
     <div
       v-else-if="type === 'location' && detail"
-      class="w-11/12 md:w-2/3 lg:w-1/2 bg-white p-8 rounded-lg shadow-lg mb-8 flex flex-col items-center"
+      class="w-11/12 md:w-2/3 lg:w-11/2 bg-gradient-to-l from-cascade via-transparent via-indigo-100 to-titlecol p-8 rounded-lg shadow-lg mb-8 flex flex-col items-center"
     >
       <h2 class="text-3xl font-bold mb-4 text-sky-800">{{ detail.name }}</h2>
       <p class="text-lg mb-2"><strong>Type:</strong> {{ detail.type }}</p>
@@ -42,27 +42,29 @@
       </p>
       <p class="text-lg mb-2"><strong>Created:</strong> {{ detail.created }}</p>
       <h3 class="text-2xl font-semibold mt-4 mb-2">Residents</h3>
-      <ul class="list-none">
+      <ul class="list-none grid grid-cols-3 gap-10">
         <li
           v-for="resident in detail.residents"
           :key="resident.id"
-          class="text-lg flex flex-col items-center"
+          class="text-lg flex flex-col items-start"
         >
           <img
             :src="resident.image"
             :alt="resident.name"
-            class="w-24 h-24 rounded-lg"
+            class="w-28 h-28 rounded-lg"
           />
-          <p><strong class="text-sky-500">Name:</strong> {{ resident.name }}</p>
           <p>
-            <strong class="text-sky-500">Status:</strong> {{ resident.status }}
+            <strong class="text-midblack">Name:</strong> {{ resident.name }}
           </p>
           <p>
-            <strong class="text-sky-500">Species:</strong>
+            <strong class="text-midblack">Status:</strong> {{ resident.status }}
+          </p>
+          <p>
+            <strong class="text-midblack">Species:</strong>
             {{ resident.species }}
           </p>
           <p>
-            <strong class="text-sky-500">Gender:</strong> {{ resident.gender }}
+            <strong class="mid-black">Gender:</strong> {{ resident.gender }}
           </p>
         </li>
       </ul>

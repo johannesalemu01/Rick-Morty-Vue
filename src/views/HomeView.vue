@@ -74,7 +74,7 @@ export default {
               <li
                 v-for="character in characters"
                 :key="character.id"
-                class="bg-gradient-to-bl from-breeze via-transparent to-titlecol p-8 rounded-xl shadow-2xl"
+                class="bg-gradient-to-bl from-breeze via-transparent to-titlecol p-8 rounded-xl shadow-2xl hover:scale-105 delay-100"
               >
                 <router-link
                   :to="'/character/' + character.id"

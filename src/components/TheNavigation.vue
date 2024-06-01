@@ -65,7 +65,13 @@ export default {
         class="rounded-3xl outline-0 px-6 bg-gradient-to-r from-sky-100 to-indigo-300 text-slate-950 placeholder:text-green-800 caret-green-500 p-1.5"
       />
       <nav class="flex flex-col gap-10 p-8">
-        <router-link to="/Episode" class="text-white"> Episodes</router-link>
+        <router-link
+          to="/Episode"
+          exact-active-class="router-link-exact-active"
+          class="text-white"
+        >
+          Episodes</router-link
+        >
         <router-link to="/Location" class="text-white"> Locations</router-link>
         <router-link to="/Character" class="text-white">
           Characters</router-link
